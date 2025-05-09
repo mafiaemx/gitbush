@@ -12,7 +12,7 @@ git remove -v
 
 git log
 //показати історію комітів
-
+git touch class.cs
 git code class.cs
 
 git add class.cs
