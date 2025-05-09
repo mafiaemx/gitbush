@@ -12,9 +12,10 @@ git remove -v
 
 git log
 //показати історію комітів
-git touch class.cs
-git code class.cs
-
+ touch class.cs
+ //create
+ code class.cs
+//open
 git add class.cs
 //edit
 
