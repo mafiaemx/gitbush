@@ -13,13 +13,14 @@ git remove -v
 git log
 //показати історію комітів
 
+git code class.cs
 
 git add class.cs
+//edit
 git commit -m "text"
 git push
 
-git code class.cs
-//edit
+
 git branch name
 //створити гілку
 
