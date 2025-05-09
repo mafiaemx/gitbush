@@ -17,8 +17,13 @@ git code class.cs
 
 git add class.cs
 //edit
+
+
+
 git commit -m "text"
 git push
+
+
 
 
 git branch name
